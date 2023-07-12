@@ -7,12 +7,7 @@ const Imgs = () => {
     <>
       <div className="carousels">
         hello
-        <Carousel>
-		<div />
-		<div />
-		<div />
-		<div />
-	</Carousel>
+        
       </div>
     </>
   );

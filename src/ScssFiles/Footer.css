@@ -1,0 +1,30 @@
+.footer {
+  position: absolute;
+  top: 162.5rem;
+  background-color: #38385c;
+  color: grey;
+  padding: 1rem;
+  width: 94rem;
+}
+
+.footer .flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer .flex .logo {
+  margin-left: 20rem;
+  margin-bottom: 1rem;
+}
+
+.footer .flex .logo img {
+  margin-right: 0.5rem;
+}
+
+.footer .flex .copyright {
+  margin-left: 26rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+/*# sourceMappingURL=Footer.css.map */

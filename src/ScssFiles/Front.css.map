@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,MADE,CACF,SAAS,CAAC;EACN,KAAK,EAAE,OAAO;CACjB",
+    "sources": [
+        "Front.scss"
+    ],
+    "names": [],
+    "file": "Front.css"
+}

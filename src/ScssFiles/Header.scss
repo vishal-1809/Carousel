@@ -1,0 +1,27 @@
+.header {
+    position: absolute;
+
+    .flex {
+        display: flex;
+
+        .logo {
+            margin-left: 20em;
+            margin-top: 1rem;
+        }
+
+        .tags {
+            margin-left: 37rem;
+            margin-top: 1rem;
+            
+            a {
+                font-style: italic;
+                color: white;
+            }
+
+            .climbTag {
+                margin-left: 3rem;
+            }
+        }
+    }
+}
+

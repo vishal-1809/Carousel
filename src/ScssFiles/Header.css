@@ -1,0 +1,29 @@
+.header {
+  position: absolute;
+}
+
+.header .flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header .flex .logo {
+  margin-left: 20em;
+  margin-top: 1rem;
+}
+
+.header .flex .tags {
+  margin-left: 37rem;
+  margin-top: 1rem;
+}
+
+.header .flex .tags a {
+  font-style: italic;
+  color: white;
+}
+
+.header .flex .tags .climbTag {
+  margin-left: 3rem;
+}
+/*# sourceMappingURL=Header.css.map */

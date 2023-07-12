@@ -1,0 +1,83 @@
+.history {
+  position: absolute;
+  top: 40rem;
+}
+
+.history .title {
+  background-color: white;
+}
+
+.history .title .flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.history .title .flex .logo {
+  margin-left: 20rem;
+  margin-top: 1rem;
+}
+
+.history .title .flex .logo img {
+  margin-right: 0.5rem;
+}
+
+.history .title .flex .tags {
+  margin-left: 31.5rem;
+  margin-top: 1rem;
+}
+
+.history .title .flex .tags a {
+  color: blue;
+  font-style: italic;
+}
+
+.history .title .flex .tags .climbTag {
+  margin-left: 3rem;
+}
+
+.history .img img {
+  width: 95rem;
+}
+
+.history .img .HistoryTxt .num {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  top: 7rem;
+  left: 18rem;
+  color: grey;
+  font-size: 10rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.history .img .HistoryTxt .num .greyBox {
+  position: absolute;
+  height: 1.5rem;
+  width: 1.5rem;
+  background-color: grey;
+  top: 9.3rem;
+  left: 11rem;
+}
+
+.history .img .HistoryTxt .history1 {
+  position: absolute;
+  top: 12rem;
+  left: 29rem;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #38385c;
+}
+
+.history .img .dummy {
+  position: absolute;
+  top: 19rem;
+  margin-left: 26rem;
+  margin-right: 20rem;
+  color: grey;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*# sourceMappingURL=History.css.map */

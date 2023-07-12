@@ -1,0 +1,28 @@
+.footer {
+    position: absolute;
+    top: 162.5rem;
+    background-color: rgb(56, 56, 92);
+    color: grey;
+    padding: 1rem;
+    width: 94rem;
+
+    .flex {
+        display: flex;
+
+        .logo {
+            margin-left: 20rem;
+            margin-bottom: 1rem;
+
+            img {
+                margin-right: 0.5rem;
+            }
+        }
+
+        .copyright {
+            margin-left: 26rem;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-style: italic;
+        }
+    }
+}
+
